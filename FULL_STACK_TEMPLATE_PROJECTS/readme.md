@@ -1,4 +1,4 @@
-# Full-Stack Templates 
+# Full-Stack Templates  
 
 # Standard for submitting Full Stack Templates on ThemeForest
 
